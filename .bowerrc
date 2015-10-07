@@ -1,0 +1,8 @@
+{
+  "registry": "http://bower.herokuapp.com",
+  "directory": "bower_components",
+
+  "proxy": "http://proxy.etn.com:8080",
+  "https-proxy" : "http://proxy.etn.com:8080",
+  "strict-ssl": false
+}
